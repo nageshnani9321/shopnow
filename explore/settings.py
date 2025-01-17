@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-&&ie#v9$+xi3#8m7%w4*(4z26z!@u!%^&4cvlgrfgg#2vwyy0f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://shopnow-api.onrender.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["shopnow-api.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
